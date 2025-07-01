@@ -16,7 +16,7 @@ checking version
 screen -S nexus
 ```
 ```bash
-~/.nexus/bin/nexus-network start --node-id
+~/.nexus/bin/nexus-network start --node-id <node-id>
 ```
 - waiting somes minutes to see node running normal
 - ctrl a + d to quit
